@@ -1,0 +1,14 @@
+[
+
+{"nombre":"fifa2022","tipo":"ps4","categoria":"deporte","precio": 4000,"img":"assets/fifaps4.jpg","id":1,"cantidad":1},
+{"nombre":"The Last Of Us","tipo":"Ps4","categoria":"Aventura","precio": 4500,"img":"assets/juego ps4.jpg","id":2,"cantidad":1},
+{"nombre":"Detroit","tipo":"Ps4","categoria":"Aventura","precio":5700,"img":"assets/detroitps4.jpg","id":3,"cantidad":1},
+{"nombre":"Minecraft","tipo":"Ps4","categoria":"Aventura","precio":8000,"img":"assets/minecraftps4.jpg","id":4,"cantidad":1},
+{"nombre":"Uncharted","tipo":"Ps4","categoria":"Accion","precio": 9000,"img":"assets/Uncharted-ps4.jpg","id":5,"cantidad":1},
+{"nombre":"Call Of Duty","tipo":"Ps5","categoria":"Accion","precio":14000,"img":"assets/images.jpg","id": 6,"cantidad":1},
+{"nombre":"Fifa 2022","tipo":"Ps5","categoria":"Deporte","precio":15000,"img":"assets/1000x1000_1.jpg","id":7,"cantidad":1},
+{"nombre":"Death","tipo":"Ps5","categoria":"Accion","precio":8000,"img":"assets/41YdumsiRZL._SL500_.jpg","id":8,"cantidad":1},
+{"nombre":"GTA V","tipo":"Ps5","categoria":"Accion","precio":12000,"img":"assets/710425578687_001.jpg","id":9,"cantidad":1},
+{"nombre":"Battlefield","tipo":"Ps5","categoria":"Accion","precio":13000,"img":"assets/battleps5.jpg","id":10,"cantidad":1}
+
+]
